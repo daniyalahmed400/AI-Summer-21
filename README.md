@@ -1,8 +1,10 @@
-## AI-Summer-21
-## Project
+## AI-Summer-21 (107338)
+-------------------------------------
+## Project AI Theory
 -------------------------------------
 ### Members:
-#### Student ID | Student Name
-**64011**  | **Anusha Iqbal**
-**64299**  | **Hafiz Daniyal Shakeel**
-**64239**  | **S M Uzair**
+Student Name | Student ID
+------------ | -------------
+**Anusha Iqbal** | **64011**
+Hafiz Daniyal Shakeel | 64299
+S M Uzair | 64239
